@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang= 'de'>
+
+<head>
+<meta charset='utf-8'>
+<title>Grundgeruest HTML</title>
+<head>
+
+<body>
+<h1>Profilseite Klara </h1>
+<br>
+<p>Da mein Leben so spannend ist möchte ich mich hiermit in aller Freude
+vorstellen.</p>
+<h2>Hier ein paar Fakten über mich:</h2>
+<br>
+<ul>
+<li>Ich bin neunzehn Jahre alt</li>
+<li>Ich habe zwei wundervolle jüngere Brüder</li>
+<li>Ich liebe es zu lesen, Volleyball zu spielen, zu wandern und viel Zeit
+mit Freunden zu verbringen</li>
+</ul>
+<h2>Damit ihr euch ein Bild von mir machen könnt, das bin ich:</h2>
+<img src='C:\Users\klara\Pictures'alt=Klara />
+<p>Wenn euch meine Social Media Kanäle interessieren:</p>
+<ul>
+<li>Instagram</li>
+<footer><a href='https://www.instagram.com/'>Instagram</a></footer>
+<li>Pinterest</li>
+<footer><a href='https://www.pinterest.de/xklaray/_saved/'>Pinterest</a></footer>
+</ul>
+</body>
+</html>
